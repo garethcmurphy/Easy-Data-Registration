@@ -5,10 +5,10 @@ This Streamlit app is designed to make your data registration process a breeze ,
 
 **What makes it awesome?** 
 
-* ** Voice Control:** Talk it out! Dictate your data descriptions and metadata using voice recognition  (coming soon!).
-* ** Templates:** No need to start from scratch! Use pre-built templates for common data types or create your own custom ones  .
-* ** Generative AI Assistant:**    Our AI buddy analyzes your data ️‍♀️ and suggests relevant metadata fields, making registration a breeze! (under development ‍♀️).
-* **➕ Drag-and-Drop Upload:**  Simply drag and drop your data files (CSV recommended) for quick and easy registration .
+- **Voice Control:** Talk it out! Dictate your data descriptions and metadata using voice recognition  (coming soon!).
+- ** Templates:** No need to start from scratch! Use pre-built templates for common data types or create your own custom ones  .
+- ** Generative AI Assistant:**    Our AI buddy analyzes your data ️‍♀️ and suggests relevant metadata fields, making registration a breeze! (under development ‍♀️).
+- **➕ Drag-and-Drop Upload:**  Simply drag and drop your data files (CSV recommended) for quick and easy registration .
 *  **Data Preview:** Take a peek at your uploaded data before registering to ensure everything looks good .
 * ✅ **Error Checking:**  We'll catch any missing or invalid data entries before you submit, so you can be confident in your registration  ✅.
 *  **Collaboration:** Share and collaborate on data registration with your colleagues within the app  (coming soon!).
